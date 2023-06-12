@@ -1,0 +1,11 @@
+E:\Users\parsinr\source\repos\mashin hesab(T)\mashin hesab(T)\bin\Debug\mashin hesab(T).exe.config
+E:\Users\parsinr\source\repos\mashin hesab(T)\mashin hesab(T)\bin\Debug\mashin hesab(T).exe
+E:\Users\parsinr\source\repos\mashin hesab(T)\mashin hesab(T)\bin\Debug\mashin hesab(T).pdb
+E:\Users\parsinr\source\repos\mashin hesab(T)\mashin hesab(T)\obj\Debug\mashin hesab(T).csproj.AssemblyReference.cache
+E:\Users\parsinr\source\repos\mashin hesab(T)\mashin hesab(T)\obj\Debug\mashin hesab(T).csproj.SuggestedBindingRedirects.cache
+E:\Users\parsinr\source\repos\mashin hesab(T)\mashin hesab(T)\obj\Debug\mashin_hesab_T_.Form1.resources
+E:\Users\parsinr\source\repos\mashin hesab(T)\mashin hesab(T)\obj\Debug\mashin_hesab_T_.Properties.Resources.resources
+E:\Users\parsinr\source\repos\mashin hesab(T)\mashin hesab(T)\obj\Debug\mashin hesab(T).csproj.GenerateResource.cache
+E:\Users\parsinr\source\repos\mashin hesab(T)\mashin hesab(T)\obj\Debug\mashin hesab(T).csproj.CoreCompileInputs.cache
+E:\Users\parsinr\source\repos\mashin hesab(T)\mashin hesab(T)\obj\Debug\mashin hesab(T).exe
+E:\Users\parsinr\source\repos\mashin hesab(T)\mashin hesab(T)\obj\Debug\mashin hesab(T).pdb
